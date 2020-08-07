@@ -6,6 +6,7 @@
 * New projects on my [Portfolio](https://tjandra-putra.github.io)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/tjandra-putra/)
 
+![image](https://github.com/Tjandra-Putra/Tjandra-Putra/blob/master/dino.gif)
 
 <!--
 **Tjandra-Putra/Tjandra-Putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
