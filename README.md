@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm [Tjandra!](https://tjandra-putra.github.io) 👋
+A passionate individual who always thrive to work on end to end products which develop sustainable and scalable technical systems to create impact.
+
+
+
 
 <!--
 **Tjandra-Putra/Tjandra-Putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
