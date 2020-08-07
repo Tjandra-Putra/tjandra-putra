@@ -1,5 +1,5 @@
 # Hi there, I'm [Tjandra!](https://tjandra-putra.github.io) 👋
-> A passionate individual who always thrive to work on end to end products which develop sustainable and scalable technical systems to create impact.
+> A `passionate` individual who always `thrive` to work on end to end products which develop `sustainable` and `scalable` technical systems to create `impact`.
 
 
 ### Find me around the web
