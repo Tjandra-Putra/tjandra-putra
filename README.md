@@ -3,7 +3,7 @@
 
 
 ### Find me around the web
-* New projects on my [Portfolio](https://tjandra-putra.github.io)
+* New projects on my [Portfolio](https://tjandra.xyz)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/tjandra-putra/)
 
 ![image](https://github.com/Tjandra-Putra/Tjandra-Putra/blob/master/dino.gif)
