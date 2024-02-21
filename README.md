@@ -1,6 +1,7 @@
 # Hi there, I'm [Tjandra!](https://tjandra-putra.github.io) 👋
 > A `passionate` individual who always `thrive` to work on end to end products which develop `sustainable` and `scalable` technical systems to create `impact`.
 
+![](https://komarev.com/ghpvc/?username=tjandra-putra)
 
 ### Find me around the web
 * New projects on my [Portfolio](https://tjandra.xyz)
