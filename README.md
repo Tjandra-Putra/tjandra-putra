@@ -7,7 +7,7 @@
 * New projects on my [Portfolio](https://tjandra.xyz)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/tjandra-putra/)
   
-![](https://leetcard.jacoblin.cool/tjandra-putra?width=1100&border=0&ext=activity&theme=wtf)
+![](https://leetcard.jacoblin.cool/tjandra-putra?width=1100&ext=heatmap&radius=10&theme=dark)
 
 ![image](https://github.com/Tjandra-Putra/Tjandra-Putra/blob/master/dino.gif)
 
