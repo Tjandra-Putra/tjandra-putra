@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=tjandra-putra)
 
 ### Find me around the web
-* New projects on my [Portfolio](https://tjandra.xyz)
+* New projects on my [Portfolio](http://tjandra.xyz)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/tjandra-putra/)
   
 
