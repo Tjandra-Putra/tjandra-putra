@@ -1,5 +1,12 @@
 # Hi there, I'm [Tjandra!](https://tjandra-putra.github.io) 👋
-> A `passionate` individual who always `thrive` to work on end to end products which develop `sustainable` and `scalable` technical systems to create `impact`.
+Hi there! I'm a final-year `Information Systems student` at `Singapore Management University`, currently a `Systems Engineer Intern` at `Pure Storage`. I specialize in software development, with hands-on experience in full stack engineering, frontend/UI development, and data & business analytics.
+
+I thrive in fast-paced, impact-driven environments — whether I’m building scalable web applications, automating processes, or designing user-friendly dashboards. I enjoy solving complex problems and turning ideas into intuitive, real-world solutions that enhance both customer experiences and team performance.
+
+My tech stack includes React.js, Next.js, TypeScript, TailwindCSS, Python, Tableau, and more. I’m always excited to learn and grow. I’m particularly passionate about creating clean, responsive interfaces and leveraging data to drive decision-making.
+
+Let’s connect if you're into collaboration, innovation, and building things that matter!
+(And on the side, I make piano & cello covers on YouTube as @remixowl 🎵).
 
 ![](https://komarev.com/ghpvc/?username=tjandra-putra)
 
